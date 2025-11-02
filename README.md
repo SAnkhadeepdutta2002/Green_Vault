@@ -1,3 +1,4 @@
-# GREENVAULT - Solar-Powered, AI-Driven, and IoT-Enabled Smart Storage for Sustainable Agriculture
+# GREENVAULT — Solar-Powered, Edge-AI & IoT based Smart Storage System
+
 
 
